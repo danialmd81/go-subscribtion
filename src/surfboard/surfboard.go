@@ -91,7 +91,7 @@ test-timeout = 1
 	}
 
 	out.WriteString("\n[Proxy Group]\n")
-	out.WriteString("myGroup = url-test")
+	out.WriteString("myGroup = select")
 	for _, name := range proxyNames {
 		out.WriteString(", " + name)
 	}
@@ -189,7 +189,7 @@ test-timeout = 1
 	}
 
 	out.WriteString("\n[Proxy Group]\n")
-	out.WriteString("myGroup = url-test")
+	out.WriteString("myGroup = select")
 	for _, name := range proxyNames {
 		out.WriteString(", " + name)
 	}
@@ -265,7 +265,7 @@ test-timeout = 1
 	}
 
 	out.WriteString("\n[Proxy Group]\n")
-	out.WriteString("myGroup = url-test")
+	out.WriteString("myGroup = select")
 	for _, name := range proxyNames {
 		out.WriteString(", " + name)
 	}
