@@ -71,7 +71,8 @@ func GenerateSSConfig(ssFile, outConf string) error {
 	}
 	defer out.Close()
 
-	out.WriteString(`[General]
+	out.WriteString(`#!MANAGED-CONFIG https://raw.githubusercontent.com/danialmd81/my-subscribtion/main/src/surfboard/vmess.conf interval=60 strict=true interval=1440 strict=false
+[General]
 dns-server = system, 8.8.8.8, 8.8.4.4, 1.1.1.1, 1.0.0.1
 doh-server = https://doh.pub/dns-query
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
@@ -169,7 +170,8 @@ func GenerateVMessConfig(vmessFile, outConf string) error {
 	}
 	defer out.Close()
 
-	out.WriteString(`[General]
+	out.WriteString(`#!MANAGED-CONFIG https://raw.githubusercontent.com/danialmd81/my-subscribtion/main/src/surfboard/ss.conf interval=60 strict=true interval=1440 strict=false
+[General]
 dns-server = system, 8.8.8.8, 8.8.4.4, 1.1.1.1, 1.0.0.1
 doh-server = https://doh.pub/dns-query
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
@@ -245,7 +247,8 @@ func GenerateHysteriaConfig(hysteriaFile, outConf string) error {
 	}
 	defer out.Close()
 
-	out.WriteString(`[General]
+	out.WriteString(`#!MANAGED-CONFIG https://raw.githubusercontent.com/danialmd81/my-subscribtion/main/src/surfboard/hysteria.conf interval=60 strict=true interval=1440 strict=false
+[General]
 dns-server = system, 8.8.8.8, 8.8.4.4, 1.1.1.1, 1.0.0.1
 doh-server = https://doh.pub/dns-query
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
