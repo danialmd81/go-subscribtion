@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 vmess://eyJhZGQiOiI4MS4xMi4zMy4xNjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJmZWRkMzZhNy05YjQxLTQwMmYtYjFiZi1jMjg2NTk3M2NlNDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDE2IiwicHMiOiIgLSAxXG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+=======
+>>>>>>> bcda563 (add vpn configs)

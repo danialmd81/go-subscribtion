@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sudochmod+xdnstt-setup.sh - 19
 sudochmod+xdnstt-server - 18
 ssh://MTQxLjguMTkyLjMxOjIyQGExMjE2MTM4OnZ1dnVpZHVuZWc= - 17
@@ -17,3 +18,5 @@ https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzcwMTI1MDAzXzEwMDUsMTc3MDEyNTAwNA
 gitclonehttps://github.com/davudsedft/Dnsttinstaller.git - 3
 cdDnsttinstaller - 2
 bashdnstt-setup.sh - 1
+=======
+>>>>>>> bcda563 (add vpn configs)
