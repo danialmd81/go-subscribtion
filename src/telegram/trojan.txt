@@ -1,0 +1,6 @@
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%3E%3E%40vmessiran%3A%3AUS - 6
+trojan://er668@kfjdi.pages.dev:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7 - 5
+trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1&host=tly.qzz.io&path=%2F34.42.77.60%3D443&sni=tly.qzz.io&type=ws#NetAccount - 4
+trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1&host=amerie.qzz.io&path=%2F34.42.77.60%3D443&sni=amerie.qzz.io&type=ws#NetAccount - 3
+trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@162.159.152.4:443?allowInsecure=1&host=gainsboro.qzz.io&path=%2F34.42.77.60%3D443&sni=gainsboro.qzz.io&type=ws#NetAccount - 2
+trojan://d70747aa-305f-44eb-9fbd-ba3a2d7c27aa@162.159.152.4:443?type=ws&host=floralwhite.qzz.io&path=/93.152.217.80%3D443&security=tls&sni=floralwhite.qzz.io&fp=chrome&allowInsecure=0#NetAccount - 1
