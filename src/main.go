@@ -3,6 +3,7 @@ package main
 import (
 	"os"
 
+	"github.com/danialmd81/my-subscribtion/all"
 	"github.com/danialmd81/my-subscribtion/subs"
 	"github.com/danialmd81/my-subscribtion/telegram"
 )
@@ -25,6 +26,6 @@ func main() {
 
 	// Continue with other services
 	subs.Run()
-	// all.Run()
+	all.Run()
 
 }
