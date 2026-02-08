@@ -14,9 +14,11 @@ func merge() error {
 	baseDirs := []string{"subs/", "telegram/"} // Directories to read input files from
 	outputDir := "all/"                        // Output directory
 
+	allEntriesMap := make(map[string]struct{}) // For all.txt
+
 	for _, proto := range protocols {
 		fmt.Printf("[INFO] Processing protocol: %s\n", proto)
-		entriesMap := make(map[string]struct{}) // Deduplicate entries
+		entriesMap := make(map[string]struct{}) // Deduplicate entries per protocol
 		totalEntries := 0
 		for _, dir := range baseDirs {
 			filePath := filepath.Join(dir, proto+".txt") // Input file path
@@ -30,6 +32,10 @@ func merge() error {
 				line := strings.TrimSpace(scanner.Text()) // Read and trim each line
 				if line != "" {
 					entriesMap[line] = struct{}{} // Add to map if not empty
+					// Only add to allEntriesMap if not hysteria or other
+					if proto != "hysteria" && proto != "other" {
+						allEntriesMap[line] = struct{}{}
+					}
 					totalEntries++
 				}
 			}
@@ -49,6 +55,19 @@ func merge() error {
 		outFile.Close()
 		fmt.Printf("[SUMMARY] %s: %d unique entries saved to %s\n", proto, len(entriesMap), outPath)
 	}
+
+	// Write all unique entries to all.txt (excluding hysteria and other)
+	allOutPath := filepath.Join(outputDir, "all.txt")
+	allOutFile, err := os.Create(allOutPath)
+	if err != nil {
+		return fmt.Errorf("failed to create all.txt: %w", err)
+	}
+	for entry := range allEntriesMap {
+		_, _ = allOutFile.WriteString(entry + "\n")
+	}
+	allOutFile.Close()
+	fmt.Printf("[SUMMARY] all.txt: %d unique entries saved to %s\n", len(allEntriesMap), allOutPath)
+
 	return nil
 }
 

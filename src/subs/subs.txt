@@ -1,2 +1,6 @@
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
 https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/refs/heads/main/servers.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
+https://manager.farsonline24.ir
+https://arcane.victoriacross.workers.dev
+https://github.com/aiboboxx/v2rayfree/blob/main

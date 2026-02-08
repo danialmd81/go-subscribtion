@@ -1,5 +1,4 @@
-trojan://x79svebo1f7b@104.17.163.123:8443?security=tls&sni=5m2b654fvfrv.zjde5.de5.net&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=5m2b654fvfrv.zjde5.de5.net&path=%2F#NetAccount - 5
-trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net&path=%2F#NetAccount - 4
-trojan://telegram-id-directvpn@13.39.200.50:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel - 3
-trojan://n875vm39ii96@104.21.40.34:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http/1.1&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&fp=random&type=ws&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#NetAccount - 2
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#NetAccount - 1
+trojan://telegram-id-privatevpns@15.236.223.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#NetAccount - 4
+trojan://telegram-id-directvpn@15.237.164.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#NetAccount - 3
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#NetAccount - 2
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#NetAccount - 1
