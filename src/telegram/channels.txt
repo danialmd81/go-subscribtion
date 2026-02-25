@@ -1,13 +1,10 @@
 https://t.me/NetAccount
 https://t.me/Vpn_varex
 https://t.me/SUT_Community
-<<<<<<< HEAD
-https://t.me/purnet
-=======
+https://t.me/prrofile_purple
 https://t.me/NetAccount
 https://t.me/mrsoulb
 https://t.me/purnet
 https://t.me/hddify
 https://t.me/anty_filter
 https://t.me/Gp_config
->>>>>>> bcda563 (add vpn configs)

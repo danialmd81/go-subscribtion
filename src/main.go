@@ -1,12 +1,9 @@
 package main
 
 import (
-<<<<<<< HEAD
 	"os"
 
 	"github.com/danialmd81/my-subscribtion/all"
-=======
->>>>>>> bcda563 (add vpn configs)
 	"github.com/danialmd81/my-subscribtion/subs"
 	"github.com/danialmd81/my-subscribtion/telegram"
 )
@@ -29,13 +26,6 @@ func main() {
 
 	// Continue with other services
 	subs.Run()
-<<<<<<< HEAD
 	all.Run()
-=======
-	// all.Run()
-	// fmt.Println(surfboard.GenerateSSConfig("all/ss.txt", "surfboard/ss.conf"))
-	// fmt.Println(surfboard.GenerateVMessConfig("all/vmess.txt", "surfboard/vmess.conf"))
-	// fmt.Println(surfboard.GenerateHysteriaConfig("all/hysteria.txt", "surfboard/hysteria.conf"))
->>>>>>> bcda563 (add vpn configs)
 
 }
