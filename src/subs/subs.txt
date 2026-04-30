@@ -1,5 +1,9 @@
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
 https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/refs/heads/main/servers.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
-https://arcane.victoriacross.workers.dev
-https://github.com/aiboboxx/v2rayfree/blob/main
+https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/tci_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/mci_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/irancell_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/others_top100.txt
+https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
