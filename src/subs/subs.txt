@@ -7,3 +7,8 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/irancell_top100.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/others_top100.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
+https://raw.githubusercontent.com/VpnforWindowsSub/configs/refs/heads/master/Eternity
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/United_Kingdom.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Germany.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Canada.txt
+https://sub.whitedns.one/sub/base64.txt
