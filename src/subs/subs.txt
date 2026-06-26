@@ -11,4 +11,6 @@ https://raw.githubusercontent.com/VpnforWindowsSub/configs/refs/heads/master/Ete
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/United_Kingdom.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Germany.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Canada.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Us.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/France.txt
 https://sub.whitedns.one/sub/base64.txt
