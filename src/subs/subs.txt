@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
 https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/refs/heads/main/servers.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt
@@ -7,6 +6,3 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/irancell_top100.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/others_top100.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
-https://raw.githubusercontent.com/VpnforWindowsSub/configs/refs/heads/master/Eternity
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
-https://sub.whitedns.one/sub/base64.txt
